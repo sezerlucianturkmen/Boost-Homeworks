@@ -21,4 +21,7 @@ public class Menu {
 
 	}
 
+	public void setSoup(ESoups soup) {
+
+	}
 }
