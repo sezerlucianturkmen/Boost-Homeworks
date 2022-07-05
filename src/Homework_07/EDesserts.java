@@ -4,7 +4,7 @@ import java.util.Random;
 
 public enum EDesserts implements IGeneral {
 
-	Baklava(1), Tiramisu(2), Gelato(3), CheeseCake(4), Cookies(5);
+	Baklava(1), Tiramisu(2), Gelato(3), CheeseCake(4), Cookies(5), Biscotto(6), PannaCotta(7);
 
 	int number;
 
